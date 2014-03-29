@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/thethp/whosthatmeat/issues"
   },
-  "homepage": "https://github.com/thethp/whosthatmeat",
+  "homepage": "https://toddhpage.com/whosthatmeat",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-bookmarklet-thingy": "~0.2.0"
