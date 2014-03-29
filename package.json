@@ -1,0 +1,28 @@
+{
+  "name": "whosthatmeat",
+  "version": "0.0.1",
+  "description": "Bookmarklet to help determine which meat is saying something",
+  "main": "whosthatmeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thethp/whosthatmeat.git"
+  },
+  "keywords": [
+    "whosthatmeat",
+    "meat",
+    "meatspaces",
+    "meatspace",
+    "meatspac.es",
+    "meatspac",
+    "chat.meatspac.es"
+  ],
+  "author": "Todd H. Page",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thethp/whosthatmeat/issues"
+  },
+  "homepage": "https://github.com/thethp/whosthatmeat"
+}
